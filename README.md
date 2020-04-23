@@ -57,6 +57,9 @@ If a choice index is not valid, the window will currently just remain blank. (te
 
 8. The script tries to recognize looping stories and breaks if the loop is too long, in order to avoid infinite recursion. (Not sure yet how well this works).
 
+9. If the text shows: "end result: reached empty page", the game ended because there were no more links to click. This is expected behaviour when the story ends. If the text shows: "POSSIBLE LOOP DETECTED - ABORTING" then loop breaking was triggered (see 8.)
+
+
 
 
 
