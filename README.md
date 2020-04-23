@@ -4,6 +4,8 @@ A simple script for automatic testing of Inky stories.
 
 This script automatically clicks links in an HTML page exported with Inky and shows the resulting text output.
 
+This is still experimental and largely untested right now.
+
 0. Use with newest Inky version only ("restart" link in web export is required)
 
 1. First export your story as web project from Inky.
