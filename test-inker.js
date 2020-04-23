@@ -69,7 +69,7 @@ init a specific turn sequence:
         output = ""
         nr_chain = ""
         restart_queue()
-        for (let i = 0; i < 200; i++) {
+        for (let i = 0; i < 1000; i++) {
             let result = queue_do_next()
             if (result === "done") break
             if (result === "playthrough done") break
