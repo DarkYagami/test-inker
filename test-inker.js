@@ -9,7 +9,7 @@ start/next playthrough:
     _testInky.test()
 
 init a specific turn sequence:
-    _testInky.seed_queue("2/1/0/2/0")
+    _testInky.seedQueue("2/1/0/2/0")
 
 */
 
